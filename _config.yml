@@ -1,14 +1,8 @@
 layout_spectrum: 1
 typography_spectrum: 0.01127818
 color:
-  saturation: 0.9253491
-  lightness: 0.8168636
+  saturation: 1
+  lightness: 0.6503759
   brandStrength: 0.4774436
-  rhythmicContrast: 0.7964554
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+  rhythmicContrast: 1
 name: 'New Hope '
